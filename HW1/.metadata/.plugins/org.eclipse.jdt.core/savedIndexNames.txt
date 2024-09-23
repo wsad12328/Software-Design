@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\NCKU\碩一上\軟體設計\作業\HW1\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+983100163.index

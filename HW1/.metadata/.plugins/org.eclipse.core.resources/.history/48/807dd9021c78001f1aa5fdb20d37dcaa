@@ -1,0 +1,7 @@
+package code;
+
+public class Sheep {
+	void sound() {
+		 System.out.println("Cat meows");
+	}
+}

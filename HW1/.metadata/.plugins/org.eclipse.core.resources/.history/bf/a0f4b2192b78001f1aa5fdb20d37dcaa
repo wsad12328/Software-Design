@@ -1,0 +1,16 @@
+package code;
+
+public class Main {
+	 public static void main(String[] args) {
+		 Dog myDog= new Dog(); 
+		 Cat myCat= new Cat(); 
+		 Sheep mySheep= new Sheep(); 	
+		 Person p = new Person();
+		 p.hear(myDog);
+		 p.hear(myCat);
+		 p.hear(mySheep);
+	}
+	public void hear(Animal animal) {
+		animal.sound();
+	}
+}
